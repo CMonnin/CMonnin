@@ -1,7 +1,10 @@
 
 
+<div align="center">
 
 👨🏻‍💻📊📈 I am currently transitioning into a data science role from an experienced, published bioanalytical chemist role.🥼🧪🧬
+
+</div>
 
 ### Data Science
 
