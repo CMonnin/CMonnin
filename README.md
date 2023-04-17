@@ -24,6 +24,8 @@
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+ 
+Deployed project using plotly dash https://rail-project.herokuapp.com/
 </div>
 <div align="left">
 
