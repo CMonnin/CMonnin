@@ -92,7 +92,7 @@ VCcode
 windows, ubuntu
 
 
-Bioanalytical Chemist
+Bioanalytical Chemistry
 Metabolomics
 Lipidomics
 HPLC-QQQ (Agilent)
