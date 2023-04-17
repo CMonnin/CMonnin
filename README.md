@@ -28,7 +28,7 @@
 <div align="left">
 
 
-### Bioanalytical Chemist
+### Bioanalytical Chemistry
 
 - Metabolomics
 - Lipidomics
