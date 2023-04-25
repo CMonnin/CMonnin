@@ -26,6 +26,7 @@
 
  
 Deployed project using plotly dash https://rail-project.herokuapp.com/
+QC ice storm April 2023 https://qc-ice-storm.herokuapp.com/
 </div>
 <div align="left">
 
