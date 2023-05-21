@@ -25,8 +25,10 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
  
-Deployed project using plotly dash https://rail-project.herokuapp.com/  
-QC ice storm April 2023 https://qc-ice-storm.herokuapp.com/
+Deployed project using plotly dash (https://cm-rail-project.onrender.com)  
+QC ice storm April 2023 (https://cm-qc-ice-storm.onrender.com)  
+Current job search metrics (https://job-search-2023.onrender.com)
+
 </div>
 <div align="left">
 
