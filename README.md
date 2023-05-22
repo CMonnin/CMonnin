@@ -6,10 +6,12 @@
 
 </div>
 
-### Data Science
+
 
 <div align="center">
 
+ ### Data Science
+ 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -24,34 +26,29 @@
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- 
-Deployed project using plotly dash (https://cm-rail-project.onrender.com)  
-QC ice storm April 2023 (https://cm-qc-ice-storm.onrender.com)  
-Current job search metrics (https://job-search-2023.onrender.com)
 
 </div>
+ 
 <div align="left">
 
-
-### Bioanalytical Chemistry
-
-- Metabolomics
-- Lipidomics
-- HPLC-QQQ (Agilent)
-- HPLC-QToF(Agilent)
-- SFC-QToF(Agilent)
-- LC-Orbi(Agilent-Thermo)
-
-
+### Deployed Projects
+ 
+Rail project using Poisson regression and neural nets to predict train crashes (https://cm-rail-project.onrender.com)  
+QC ice storm April 2023, tracking outages (https://cm-qc-ice-storm.onrender.com)  
+Current job search metrics (https://job-search-2023.onrender.com)
 </div>
-<div align="center">
 
+<div align="left">
 
+### Socials etc.
+ 
+[Github](https://github.com/CMonnin/) 
 [Linkedin](https://www.linkedin.com/in/cmonnin/)  
 [Oricd](https://orcid.org/0000-0002-8894-1571)  
 [Google scholar](https://scholar.google.com/citations?user=Bgfr0bAAAAAJ&hl=en)  
 
 </div>
+
 <!--
 **CMonnin/CMonnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
