@@ -42,7 +42,7 @@ Current job search metrics (https://job-search-2023.onrender.com)
 
 ### Socials etc.
  
-[Github](https://github.com/CMonnin/) 
+[Github](https://github.com/CMonnin/)  
 [Linkedin](https://www.linkedin.com/in/cmonnin/)  
 [Oricd](https://orcid.org/0000-0002-8894-1571)  
 [Google scholar](https://scholar.google.com/citations?user=Bgfr0bAAAAAJ&hl=en)  
