@@ -38,17 +38,6 @@ Rail project using Poisson regression and neural nets to predict train crashes (
 QC ice storm April 2023, tracking outages (https://qc-ice-storm.up.railway.app/)  
 Current job search metrics (https://job-search-2023.up.railway.app/)
 </div>
-
-<div align="left">
-
-### Socials etc.
- 
-[Github](https://github.com/CMonnin/)  
-[Linkedin](https://www.linkedin.com/in/cmonnin/)  
-[Oricd](https://orcid.org/0000-0002-8894-1571)  
-[Google scholar](https://scholar.google.com/citations?user=Bgfr0bAAAAAJ&hl=en)  
-
-</div>
 <div align="left">
  
 ### Workspaces
@@ -68,6 +57,20 @@ OSU dev ops (https://devopsbootcamp.osuosl.org/)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) via [The Book](https://doc.rust-lang.org/book/) and [Advent of Code](https://adventofcode.com/)
 
 </div>
+
+<div align="left">
+
+### Socials etc.
+ 
+[Github](https://github.com/CMonnin/)  
+[Linkedin](https://www.linkedin.com/in/cmonnin/)  
+[Oricd](https://orcid.org/0000-0002-8894-1571)  
+[Google scholar](https://scholar.google.com/citations?user=Bgfr0bAAAAAJ&hl=en)  
+
+</div>
+<div align="left">
+ 
+
 
 <!--
 **CMonnin/CMonnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
