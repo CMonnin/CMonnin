@@ -10,7 +10,7 @@
 
 <div align="center">
 
- ### Data Science
+ ### Technologies 
  
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -26,6 +26,7 @@
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 </div>
  
@@ -46,6 +47,25 @@ Current job search metrics (https://job-search-2023.up.railway.app/)
 [Linkedin](https://www.linkedin.com/in/cmonnin/)  
 [Oricd](https://orcid.org/0000-0002-8894-1571)  
 [Google scholar](https://scholar.google.com/citations?user=Bgfr0bAAAAAJ&hl=en)  
+
+</div>
+<div align="left">
+ 
+### Workspaces
+
+ ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+ ![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
+ ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)  
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+ 
+</div>
+<div align="left">
+ 
+### Currently learning:
+OSU dev ops (https://devopsbootcamp.osuosl.org/)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 
 </div>
 
