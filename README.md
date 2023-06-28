@@ -65,7 +65,7 @@ Current job search metrics (https://job-search-2023.up.railway.app/)
  
 ### Currently learning:
 OSU dev ops (https://devopsbootcamp.osuosl.org/)  
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) via [The Book](https://doc.rust-lang.org/book/) and [Advent of Code](https://adventofcode.com/)
 
 </div>
 
