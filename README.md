@@ -35,7 +35,7 @@
 ### Deployed Projects
  
 Rail project using Poisson regression and neural nets to predict train crashes (https://rail-project-cm.up.railway.app/)  
-~~QC ice storm April 2023, tracking outages (https://qc-ice-storm.up.railway.app/)~~
+~~QC ice storm April 2023, tracking outages (https://qc-ice-storm.up.railway.app/)~~  
 Current job search metrics (https://job-search-2023.up.railway.app/)
 </div>
 <div align="left">
