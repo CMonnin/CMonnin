@@ -64,7 +64,7 @@ OSU dev ops (https://devopsbootcamp.osuosl.org/)
  
 [Github](https://github.com/CMonnin/)  
 [Linkedin](https://www.linkedin.com/in/cmonnin/)  
-[Oricd](https://orcid.org/0000-0002-8894-1571)  
+[Orcid](https://orcid.org/0000-0002-8894-1571)  
 [Google scholar](https://scholar.google.com/citations?user=Bgfr0bAAAAAJ&hl=en)  
 
 </div>
