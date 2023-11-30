@@ -2,7 +2,7 @@
 
 <div align="center">
 
-👨🏻‍💻📊📈 I am currently transitioning into a data science role from an experienced, published bioanalytical chemist role.🥼🧪🧬
+👨🏻‍💻📊📈 I am currently transitioning into a software development role from an experienced, published bioanalytical chemist role.🥼🧪🧬
 
 </div>
 
@@ -50,13 +50,7 @@ Current job search metrics (https://job-search-2023.up.railway.app/)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  
 </div>
-<div align="left">
- 
-### Currently learning:
-OSU dev ops (https://devopsbootcamp.osuosl.org/)  
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) via [The Book](https://doc.rust-lang.org/book/) and [Advent of Code](https://adventofcode.com/)
 
-</div>
 
 <div align="left">
 
@@ -75,6 +69,13 @@ OSU dev ops (https://devopsbootcamp.osuosl.org/)
 <!--
 **CMonnin/CMonnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align="left">
+ 
+### Currently learning:
+OSU dev ops (https://devopsbootcamp.osuosl.org/)  
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) via [The Book](https://doc.rust-lang.org/book/) and [Advent of Code](https://adventofcode.com/)
+
+</div>
 
 badges
 https://github.com/Ileriayo/markdown-badges
