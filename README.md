@@ -57,7 +57,7 @@ Current job search metrics (https://job-search-2023.up.railway.app/)
 <div align="left">
 
 ### Socials etc.
-[cianmonnin.dev](https://www.cianmonnin.dev)
+[cianmonnin.dev](https://www.cianmonnin.dev)  
 [Github](https://github.com/CMonnin/)  
 [Linkedin](https://www.linkedin.com/in/cmonnin/)  
 [Orcid](https://orcid.org/0000-0002-8894-1571)  
