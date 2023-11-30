@@ -2,6 +2,8 @@
 
 <div align="center">
 
+## Checkout my website! [www.cianmonnin.dev](https://www.cianmonnin.dev)
+
 👨🏻‍💻📊📈 I am currently transitioning into a software development role from an experienced, published bioanalytical chemist role.🥼🧪🧬
 
 </div>
@@ -55,7 +57,7 @@ Current job search metrics (https://job-search-2023.up.railway.app/)
 <div align="left">
 
 ### Socials etc.
- 
+[cianmonnin.dev](https://www.cianmonnin.dev)
 [Github](https://github.com/CMonnin/)  
 [Linkedin](https://www.linkedin.com/in/cmonnin/)  
 [Orcid](https://orcid.org/0000-0002-8894-1571)  
