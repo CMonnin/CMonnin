@@ -32,7 +32,7 @@
 
 </div>
  
-<div align="left">
+<!--<div align="left">
 
 ### Deployed Projects
  
@@ -41,6 +41,7 @@ Rail project using Poisson regression and neural nets to predict train crashes (
 Current job search metrics (https://job-search-2023.up.railway.app/)
 </div>
 <div align="left">
+-->
  
 ### Workspaces
 
