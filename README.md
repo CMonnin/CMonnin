@@ -4,7 +4,7 @@
 
 ## Hello!
 
-Junior Developer at the [Douglas Nueroinformatics Platform](https://github.com/DouglasNeuroInformatics)
+Junior Developer at the [Douglas Neuroinformatics Platform](https://github.com/DouglasNeuroInformatics)
 
 Checkout my website! [www.cianmonnin.dev](https://www.cianmonnin.dev)
 ### Technologies
