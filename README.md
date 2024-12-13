@@ -4,7 +4,7 @@
 
 ## Hello!
 
-Junior Developer at the [Douglas Neuroinformatics Platform](https://github.com/DouglasNeuroInformatics)
+Scientific Programmer at [CoBrALab](https://github.com/CoBrALab) and the [Douglas Neuroinformatics Platform](https://github.com/DouglasNeuroInformatics)
 
 Checkout my website! [www.cianmonnin.dev](https://www.cianmonnin.dev)
 ### Technologies
