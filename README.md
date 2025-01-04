@@ -16,6 +16,11 @@ Checkout my website! [www.cianmonnin.dev](https://www.cianmonnin.dev)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
+
+
+#### Buy me a ~~beer~~ coffee!
+https://ko-fi.com/cmonnin
+
 <!--
 
 </div>
