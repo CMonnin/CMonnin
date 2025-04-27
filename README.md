@@ -6,7 +6,9 @@
 
 Scientific Programmer at [CoBrALab](https://github.com/CoBrALab) and the [Douglas Neuroinformatics Platform](https://github.com/DouglasNeuroInformatics)
 
-Checkout my website! [www.cianmonnin.dev](https://www.cianmonnin.dev)
+Checkout my website! [www.cianmonnin.dev](https://www.cianmonnin.dev)  
+
+Codeburg proflie [codeberg.org/CMonnin/](codeberg.org/CMonnin/)
 ### Technologies
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
