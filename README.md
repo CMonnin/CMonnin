@@ -8,7 +8,7 @@ Scientific Programmer at [CoBrALab](https://github.com/CoBrALab) and the [Dougla
 
 Checkout my website! [www.cianmonnin.dev](https://www.cianmonnin.dev)  
 
-Codeburg proflie [codeberg.org/CMonnin/](codeberg.org/CMonnin/)
+Codeburg proflie [codeberg.org/CMonnin/](https://www.codeberg.org/CMonnin/)
 ### Technologies
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
