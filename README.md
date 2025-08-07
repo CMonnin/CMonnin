@@ -11,6 +11,7 @@ Checkout my website! [www.cianmonnin.dev](https://www.cianmonnin.dev)
 Codeburg proflie [codeberg.org/CMonnin/](https://www.codeberg.org/CMonnin/)
 ### Technologies
 
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
